@@ -1,4 +1,4 @@
-![Hey there, I'm Gyanendra. I'm a Full Stack developer, a curioys and enthusiast.](gyanendra.gif.mp4)
+gyanendra.gif.mp4
 
 # 👋 &nbsp;Hi there
 
