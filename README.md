@@ -1,5 +1,5 @@
 
-![video](./gyanendra.mp4)
+![Gyanendra header](./gyanendra.gif)
 
 # 👋 &nbsp;Hi there
 
