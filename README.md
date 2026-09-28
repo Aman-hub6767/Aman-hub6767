@@ -1,8 +1,5 @@
-<<<<<<< HEAD
+
 ![Gyanendra Header](./gyanendra.gif)
-=======
-![video](./gyanendra.gif.mp4)
->>>>>>> 9f2db9797c7a56153588f4de11aff0715d2d34a1
 
 # 👋 &nbsp;Hi there
 
