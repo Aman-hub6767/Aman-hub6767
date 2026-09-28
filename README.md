@@ -1,4 +1,5 @@
-![Hey there, I'm Gyanendra. I'm a Full Stack developer, a curioys and enthusiast.]
+![Hey there, I'm Gyanendra. I'm a Full Stack developer, a curioys and enthusiast.](https://github.com/CyrisXD/CyrisXD/raw/master/header.gif)
+
 
 # 👋 &nbsp;Hi there
 
